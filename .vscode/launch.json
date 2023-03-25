@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "quick_sort",
+            "request": "launch",
+            "mainClass": "quick_sort",
+            "projectName": "C_Code_9e8d79d2"
+        },
+        {
             "name": "C/C++: cpp.exe 生成和调试活动文件",
             "type": "cppdbg",
             "request": "launch",
